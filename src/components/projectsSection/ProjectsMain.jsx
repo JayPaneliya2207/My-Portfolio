@@ -26,11 +26,11 @@ const projects = [
     link: "https://camryprotocol.com/",
   },
   {
-    name: "SabjiWale",
+    name: "Qwicky",
     year: "May2025",
     align: "left",
     image: "../../public/images/sabjiwale.jpeg",
-    link: "https://sabjiwalebhaiya.in/",
+    link: "https://qwicky.in/",
   },
 ];
 
